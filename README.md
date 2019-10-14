@@ -11,3 +11,5 @@ Donwload TrackingJs: https://trackingjs.com/
 # Face API JS
 
 Face API JS library construída no Tensor Flow, para configurar a detecção de faces.
+
+Tutorial: https://www.youtube.com/watch?v=CVClHLwv-4I
